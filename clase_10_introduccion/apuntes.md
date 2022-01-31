@@ -2,6 +2,6 @@
 
 ## Iniciar un servidor con la consola
 
-```cmd
+```
 > php -S localhost:3000 ejemplos.php
 ```

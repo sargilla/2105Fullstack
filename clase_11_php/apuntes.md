@@ -48,7 +48,7 @@ Es importante tener siempre a mano la documentación de PHP
 
 ```php
     $miArray = [];
-	$miArray = [“hola”, “chau”, 0, 42];
+	$miArray = ['hola', 'chau', 0, 42];
 
     $miArrayAsociativo = [
         'nombre' => 'Santiago',
@@ -57,9 +57,9 @@ Es importante tener siempre a mano la documentación de PHP
     ];
 
     $auto = [];
-	$auto[“color”] = [“Negro”, “Verde”];
-	$auto[“marca”] = “Ford”;
-	$auto[“anio”] = 1992;
+	$auto['color'] = ['Negro', 'Verde'];
+	$auto['marca'] = 'Ford';
+	$auto['anio'] = 1992;
 
 	var_dump($auto);
 

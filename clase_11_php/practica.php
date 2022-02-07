@@ -2,7 +2,29 @@
 // Ej 1
 echo "hola";
 
+// Ej 7
+$mascotas = [
+[
+'animal' => 'perro',
+'edad' => 5,
+'altura' => 0.6
+]
+];
 
+$mascotas[];
+$mascotas[0]['animal'] = 'perro';
+$mascotas[0]['edad'] = 5;
+$mascotas[0]['altura'] = 0.6;
+
+
+let var = '14';
+
+let var = {
+    'animal': 'perro',
+    'edad': 5
+}
+
+// $array = array('','');
 // $array = [];
 
 // for($i=0;$i<10;$i++){

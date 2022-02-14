@@ -4,7 +4,7 @@ En relación a la base de datos proporcionada (movies_db), realizar estos ejerci
 
 Utilizaremos SELECT | WHERE | ORDER BY / ASC/DESC | LIMIT / OFFSET | BETWEEN / LIKE | Alias
 
-1 - Traer todos los actores de la tabla actores
+1 - Traer todos los actores de la tabla actores.
 2 - Traer todos los títulos y sus premios de la tabla movies.
 3 - Obtener la película Titanic por medio del nombre.
 4 - Obtener todas las películas que su fecha de estreno sea mayor a octubre de 1999 y menor a diciembre del 2004.

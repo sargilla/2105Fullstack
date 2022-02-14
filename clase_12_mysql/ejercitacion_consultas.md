@@ -21,10 +21,10 @@ Para investigar:
 
 1 - SELECT _ FROM actors
 2 - SELECT title, awards FROM movies
-3 - SELECT _ FROM movies WHERE title = "Titanic"
-4 - SELECT _FROM movies WHERE release_date > '1999-10'AND release_date < '2004-12'
-5 - SELECT _ FROM series WHERE id = 4
-6 - SELECT * FROM episodes WHERE number = 2
-7 - SELECT *FROM movies WHERE title LIKE '%a'
+3 - SELECT + FROM movies WHERE title = "Titanic"
+4 - SELECT _ FROM movies WHERE release*date > '1999-10'AND release_date < '2004-12'
+5 - SELECT * FROM series WHERE id = 4
+6 - SELECT \_ FROM episodes WHERE number = 2
+7 - SELECT \* FROM movies WHERE title LIKE '%a'
 8 - SELECT count(\*)FROM actors where first_name = "Jim"
 9 - SELECT sum(awards) FROM movies where title like 'La Guerra%'

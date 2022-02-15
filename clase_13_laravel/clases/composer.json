@@ -1,0 +1,13 @@
+{
+    "name": "sargilla/clases",
+    "authors": [
+        {
+            "name": "Santiago Argilla",
+            "email": "sargilla@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap" : ["./src"]
+    }
+}

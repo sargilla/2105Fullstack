@@ -44,7 +44,6 @@ Hacer un archivo layout.blade.php dentro de la carpeta views y ponerle:
                         <a class="nav-link" href="/contacto">Contacto</a>
                     </li>
                 </ul>
-
             </div>
         </div>
     </nav>

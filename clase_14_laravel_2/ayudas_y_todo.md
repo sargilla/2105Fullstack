@@ -47,7 +47,6 @@ Hacer un archivo layout.blade.php dentro de la carpeta views y ponerle:
             </div>
         </div>
     </nav>
-
     <div class="container">
         @yield('contenido')
     </div>

@@ -88,7 +88,7 @@ Vamos a hacer una lista de productos para implementar un crud en base de datos.
 -   Crear la vista del formulario de creación
 
 ```html
-<form action="{{ route('productos.store')}}" method="POST">
+<form action="" method="POST">
     <div class="mb-3">
         <label for="nombre" class="form-label">Nombre</label>
         <input
